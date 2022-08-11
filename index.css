@@ -1,0 +1,24 @@
+/* Change svg background color. */
+.background {
+    background: #ecca9d;
+    height: 100%;
+    width: 100% !important;
+}
+
+.myTank {
+    display: block;
+    position: absolute;
+    bottom: 10px;
+    width: 100px;
+    height: 100px;
+    text-align: center;
+    left: 41%;
+}
+
+
+#gameArea img {
+    transition: all 0.1s linear;
+}
+
+myBullet {
+}
